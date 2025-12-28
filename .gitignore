@@ -1,0 +1,12 @@
+# Secrets (Never upload these!)
+.env
+.hevy_uploader_config.json
+
+# Python junk
+__pycache__/
+*.pyc
+
+# PyInstaller build folders (Too big/messy for code history)
+build/
+dist/
+*.spec
