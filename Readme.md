@@ -2,7 +2,7 @@ Welcome to the heavy uploader,
 
 # Hevy Routine Uploader
 
-A simple desktop tool for power users to manage their Hevy workouts.
+A simple windows desktop tool for power users to update their Hevy workouts.
 
 ## Features
 - **Bulk Upload**: Paste JSON workout data from Gemini (AI) directly into the app.
