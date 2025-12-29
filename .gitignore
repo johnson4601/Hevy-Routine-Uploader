@@ -1,12 +1,7 @@
-# Secrets (Never upload these!)
 .env
-.hevy_uploader_config.json
-
-# Python junk
+.garth
 __pycache__/
 *.pyc
-
-# PyInstaller build folders (Too big/messy for code history)
-build/
-dist/
-*.spec
+garmin_stats.csv
+hevy_stats.csv
+garmin_runs.csv
