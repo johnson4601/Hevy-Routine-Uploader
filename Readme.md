@@ -20,3 +20,5 @@ A simple desktop tool for power users to manage their Hevy workouts.
 
 ## Installation
 Just download `HevyUploader.exe` from the Releases tab and run it!
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=johnson4601/Hevy-Routine_uploader&label=Visitors&countColor=%2337d67a)
